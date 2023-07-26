@@ -2,7 +2,8 @@
 
 /**
  * interactive_mod - returns true if shell is interactive mode
- * @data: struct address
+ * @data: struct address of the data
+ *
  * Return: 1 if interactive mode, 0 otherwise
  */
 int interactive_mod(info_t *data)
