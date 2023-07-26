@@ -3,7 +3,7 @@
 /**
  * ptrfree - frees a pointer and NULLs the address
  * @s: pointer to the address to be freed
- * Return: 1 on success, 0 on failure.
+ * Return: 1 on success, otherwise 0.
  */
 int ptrfree(void **s)
 {
