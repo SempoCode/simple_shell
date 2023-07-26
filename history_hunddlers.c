@@ -3,7 +3,7 @@
 /**
  * buildHistory_list - adds entry to a history linked list
  * @buffer: buffer
- * @data: data of the histry.
+ * @data: The data of the histry.
  * @lines: the history linecount, histcount
  * Return: Always 0
  */
